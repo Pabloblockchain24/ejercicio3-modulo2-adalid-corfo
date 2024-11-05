@@ -1,0 +1,8 @@
+@use "../themes/theme-adalid" as colors;
+@use "../abstracts/mixins" as mixins;
+
+
+/*Solo hicimos esta modificación dado que estamos ocupando buttons de bootstrap */
+.btn{
+  @include mixins.button-shadow;
+}
