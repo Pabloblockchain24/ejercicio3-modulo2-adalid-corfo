@@ -9,13 +9,13 @@ Este proyecto es una práctica para el Módulo 2 del curso Adalid Corfo. Se trat
 1. Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/Pabloblockchain24/ejercicio2-modulo2-adalid-corfo.git
+    git clone https://github.com/Pabloblockchain24/ejercicio3-modulo2-adalid-corfo.git
     ```
 
 2. Navega a la carpeta del proyecto:
 
     ```bash
-    cd ejercicio2-modulo2-adalid-corfo
+    cd ejercicio3-modulo2-adalid-corfo
     ```
 
 3. Instala las dependencias de SASS si aún no lo has hecho:
@@ -35,7 +35,7 @@ Este proyecto es una práctica para el Módulo 2 del curso Adalid Corfo. Se trat
 ## Estructura de carpetas y archivos
 
 ```
-ejercicio1-modulo2-adalid-corfo/
+ejercicio3-modulo2-adalid-corfo/
 │
 ├── index.html              # Página principal (Home)
 ├── pages/
