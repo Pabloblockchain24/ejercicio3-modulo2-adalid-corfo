@@ -27,7 +27,7 @@ Este proyecto es una práctica para el Módulo 2 del curso Adalid Corfo. Se trat
 4. Compila los archivos SASS:
 
     ```bash
-    sass assets/styles/main.scss assets/styles/main.css
+    sass .\assets\styles\main.scss estilos.css
     ```
 
 5. Abre el archivo `index.html` en tu navegador favorito para visualizar el proyecto.
